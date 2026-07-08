@@ -1,0 +1,8 @@
+flask
+groq
+python-dotenv
+requests
+pdfplumber
+python-docx
+pillow
+pytesseract
